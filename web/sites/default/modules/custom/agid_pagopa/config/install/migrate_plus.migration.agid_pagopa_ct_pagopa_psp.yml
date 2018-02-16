@@ -1,6 +1,6 @@
-id: agid_fixtures_ct_pagopa_psp
+id: agid_pagopa_ct_pagopa_psp
 label: Import of 'PagoPA PSP' contents
-migration_group: agid_fixtures_group_pagopa
+migration_group: agid_pagopa_group_pagopa
 migration_tags:
   - Drupal 8
   - PagoPA

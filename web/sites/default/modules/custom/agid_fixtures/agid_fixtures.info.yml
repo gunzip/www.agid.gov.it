@@ -23,9 +23,6 @@ config_devel:
     - migrate_plus.migration.agid_fixtures_taxonomy_pagopa_type
     - migrate_plus.migration.agid_fixtures_taxonomy_offices
     - migrate_plus.migration.agid_fixtures_taxonomy_roles
-    - migrate_plus.migration.agid_fixtures_ct_pagopa_psp
-    - migrate_plus.migration.agid_fixtures_ct_pagopa_intermediari
-    - migrate_plus.migration.agid_fixtures_ct_pagopa_ec
     - migrate_plus.migration.agid_fixtures_images
     - migrate_plus.migration.agid_fixtures_paragraph_image
     - migrate_plus.migration.agid_fixtures_paragraph_titletext
